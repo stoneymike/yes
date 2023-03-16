@@ -1,0 +1,12 @@
+.show {
+    left: 200px !important;
+}
+
+#nav-btn {
+    z-index: 1200000000;
+}
+
+#nav-btn img {
+    width: 20px;
+    
+}
